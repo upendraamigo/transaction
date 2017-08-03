@@ -28,7 +28,7 @@ if(isset($_POST["PRODUCTNAME"])){
 <td><h style="color:black";>PRODUCTNAME</td></h>
 <td><Select name="PRODUCTNAME" size="1">
   <option value="Select">Select</option>}
-   <option value="VT">VT</option>
+   <option value="upendra">upendra</option>
    <option value="PT">PT</option>
    <option value="SIM CARD">SIM CARD</option>
    </Select></td>
